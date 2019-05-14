@@ -1,5 +1,5 @@
 {
-  "name": "m0dch3n-favico.js",
+  "name": "@m0dch3n/favico.js",
   "version": "1.0.0",
   "description": "Favico.js is a library to manipulate the favicon, adding alert badges, render images or videos.",
   "main": "favico.js",
